@@ -1,0 +1,23 @@
+﻿################################################################################
+# Il file gitignore è stato creato automaticamente da Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DotNet-Api/v17/.wsuo
+/.vs/DotNet-Api/v17/DocumentLayout.json
+/.vs/DotNet-Api_Finshrk/v17/.wsuo
+/.vs/DotNet-Api_Finshrk/v17/DocumentLayout.json
+/.vs/FinShark/DesignTimeBuild/.dtbcache.v2
+/.vs/FinShark/FileContentIndex/19aad6cc-e998-4a8f-913f-e3b8d76fc6ed.vsidx
+/.vs/FinShark/FileContentIndex/31b0177f-9c5c-4d4c-9311-53fd3c7d9003.vsidx
+/.vs/FinShark/FileContentIndex/7d31dc81-2b20-4c55-97df-bddd94dbbdc5.vsidx
+/.vs/FinShark/FileContentIndex/b25a2317-b771-413a-83f7-867cd72f301c.vsidx
+/.vs/FinShark/FileContentIndex/b84e0f86-c64e-49d9-997a-c6c970f28787.vsidx
+/.vs/FinShark/v16/.suo
+/.vs/FinShark/v17/.futdcache.v2
+/.vs/FinShark/v17/.suo
+/.vs/FinShark/v17/DocumentLayout.json
+/.vs/ProjectEvaluation/finshark.metadata.v7.bin
+/.vs/ProjectEvaluation/finshark.projects.v7.bin
+/.vs/VSWorkspaceState.json
+/WebApplication1
+/.dockerignore
