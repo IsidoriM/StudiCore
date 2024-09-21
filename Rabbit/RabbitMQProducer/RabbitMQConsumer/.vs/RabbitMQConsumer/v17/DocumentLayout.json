@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Massimiliano Isidori\\Desktop\\Studi\\RabbitMQ\\RabbitMQProducer\\RabbitMQConsumer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{624E30B0-96FF-4A2C-AB94-2F523C7F5D41}|RabbitMQConsumer.csproj|c:\\users\\massimiliano isidori\\desktop\\studi\\rabbitmq\\rabbitmqproducer\\rabbitmqconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624E30B0-96FF-4A2C-AB94-2F523C7F5D41}|RabbitMQConsumer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624E30B0-96FF-4A2C-AB94-2F523C7F5D41}|RabbitMQConsumer.csproj|c:\\users\\massimiliano isidori\\desktop\\studi\\rabbitmq\\rabbitmqproducer\\rabbitmqconsumer\\directexchangeconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624E30B0-96FF-4A2C-AB94-2F523C7F5D41}|RabbitMQConsumer.csproj|solutionrelative:directexchangeconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DirectExchangeConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Massimiliano Isidori\\Desktop\\Studi\\RabbitMQ\\RabbitMQProducer\\RabbitMQConsumer\\DirectExchangeConsumer.cs",
+              "RelativeDocumentMoniker": "DirectExchangeConsumer.cs",
+              "ToolTip": "C:\\Users\\Massimiliano Isidori\\Desktop\\Studi\\RabbitMQ\\RabbitMQProducer\\RabbitMQConsumer\\DirectExchangeConsumer.cs",
+              "RelativeToolTip": "DirectExchangeConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:11:48.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Massimiliano Isidori\\Desktop\\Studi\\RabbitMQ\\RabbitMQProducer\\RabbitMQConsumer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Massimiliano Isidori\\Desktop\\Studi\\RabbitMQ\\RabbitMQProducer\\RabbitMQConsumer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:09:39.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
